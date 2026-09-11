@@ -2,7 +2,7 @@
 
 Computer Engineering @ Ankara University. Ankara.
 
-I work on machine learning at both ends of the hardware spectrum: models small enough for microcontroller-class targets — kilobytes of RAM, no OS, no `malloc`, so 1-bit weights, bit-packed frames and everything laid out ahead of time — and ordinary large-scale training where none of that is a constraint. The small end is why I also write allocators: down there the model and the memory layout are the same problem.
+I work on AI and low-level system design. Most of what I do sits where the two meet: models small enough for microcontroller-class targets — kilobytes of RAM, no OS, no `malloc`, so 1-bit weights, bit-packed frames and every buffer placed ahead of time — and the allocators and memory layout that make them fit. Down there the model and the memory are the same problem. I also train at ordinary scale, where none of that is a constraint.
 
 **Projects**
 
