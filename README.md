@@ -16,4 +16,4 @@ I work on AI and low-level system design. Most of what I do sits where the two m
 - Turkish call-center analytics: speaker diarization and Whisper feeding a shared BERTurk backbone with separate heads for customer emotion, purchase decision and agent fraud.
 - OCR for tire sidewall labels: text detection and recognition that turns photos into structured fields.
 
-**Stack:** C, Python, Java, SQL, PyTorch, XGBoost
+**Stack:** C, Python, Java, SQL, PyTorch
